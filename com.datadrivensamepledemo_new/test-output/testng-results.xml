@@ -2,19 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-20T12:59:10 IST" name="Data Driven Basics" finished-at="2023-11-20T12:59:15 IST" duration-ms="5179">
+  <suite started-at="2023-11-20T17:54:35 IST" name="Data Driven Basics" finished-at="2023-11-20T17:54:42 IST" duration-ms="7002">
     <groups>
     </groups>
-    <test started-at="2023-11-20T12:59:10 IST" name="Login" finished-at="2023-11-20T12:59:15 IST" duration-ms="5179">
+    <test started-at="2023-11-20T17:54:35 IST" name="Login" finished-at="2023-11-20T17:54:42 IST" duration-ms="7002">
       <class name="com.datadrivendemo.DataDrivenLogin">
-        <test-method signature="Launchsite(java.lang.String)[pri:0, instance:com.datadrivendemo.DataDrivenLogin@6892b3b6]" started-at="2023-11-20T12:59:10 IST" name="Launchsite" finished-at="2023-11-20T12:59:15 IST" duration-ms="5135" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="Launchsite()[pri:0, instance:com.datadrivendemo.DataDrivenLogin@75390459]" started-at="2023-11-20T17:54:35 IST" name="Launchsite" finished-at="2023-11-20T17:54:42 IST" duration-ms="6963" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launchsite -->

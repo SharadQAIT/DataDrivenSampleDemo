@@ -2,11 +2,10 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Data Driven Basics]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Login(failed)">
-    <parameter name="browser" value="chrome"/>
     <classes>
       <class name="com.datadrivendemo.DataDrivenLogin">
         <methods>
-          <include name="Launchsite" invocation-numbers="0"/>
+          <include name="Launchsite"/>
         </methods>
       </class> <!-- com.datadrivendemo.DataDrivenLogin -->
     </classes>
